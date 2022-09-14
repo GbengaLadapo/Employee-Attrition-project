@@ -10,7 +10,9 @@ Predict employees that are likely to quit so that companies can take remedial st
 ## Exploratory Data Analysis
 Based on the data exploration carried out, these points were noticed: 
 1.) Employees that left the company had much lower average job satisfaction level as compared to people still in the company		
- 2.) Employees that left had a slightly higher average monthly working hours than those retained. The data suggests that they left due to exhaustion
+
+2.) Employees that left had a slightly higher average monthly working hours than those retained. The data suggests that they left due to exhaustion
+
 3.) Majority of employees that left earned low and medium salaries
 4.) Majority of people that left the company are in their 3rd, 4th and 5th year.According to the data, employees that have spent more than 6 years in the company did not quit. In addition, employees in their 5th year are the most likely to quit. 
 5.) Almost all the people that quit did not get any promotion in the last 5 years. In addition, all the people that got promoted did not quit
