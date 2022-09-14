@@ -19,7 +19,7 @@ Based on the data exploration carried out, these points were noticed:
 The employees with the following employee ID are most likely to quit next: 
 2001,	
 14192,	
-14199	,
+14199	
 
 
 # Recommendation
