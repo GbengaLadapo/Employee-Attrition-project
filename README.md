@@ -17,9 +17,9 @@ Based on the data exploration carried out, these points were noticed:
 6.) Most of the departments have an attrition rate between 22-29%. The department with the least attrition rate is 'Management' with a rate of 14% while the department with the highest attrition rate is 'HR' at 29%.
 ## Prediction (Machine Learning) 
 The employees with the following employee ID are most likely to quit next: 
-2001	
-14192	
-14199	
+2001,	
+14192,	
+14199	,
 
 
 # Recommendation
